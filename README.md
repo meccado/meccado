@@ -1,10 +1,10 @@
----
+<!-- ---
 title: MoeketsiMokoena
 date: 2020-01-01
 spoiler: Creativity Readme Template
 categories: ["Java", "Spring Framework", "Javascript"]
 githubUsername: "meccado"
----
+--- -->
 
 [![github_cover](https://user-images.githubusercontent.com/8968908/102716417-81a54200-42e4-11eb-87eb-7018141e75c8.png)](https://www.youtube.com/channel/UCWIiIOVyTzeGJdkhi8BZ62w)
 [![BREADUPONWATERS.CO.ZA](https://img.shields.io/badge/-BREADUPONWATERS.CO.ZA-000000?style=for-the-badge&logo=react&logoColor=red)](https://breaduponwaters.co.za/)
@@ -20,7 +20,6 @@ githubUsername: "meccado"
 - 😄 Pronouns: He/She
 - ⚡ Fun fact: Learning Biblical Hebrew, as well as trying to learn to play atleast one musical instrument.
 
----
 
 ### **Connet with me:**
 
