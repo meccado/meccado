@@ -1,4 +1,5 @@
-[![github_cover](https://user-images.githubusercontent.com/8968908/102719739-6ba17c80-42f8-11eb-8412-6c44e044a570.png)](https://www.youtube.com/channel/UCWIiIOVyTzeGJdkhi8BZ62w)
+[![github_cover](https://user-images.githubusercontent.com/8968908/103142295-87968b00-4709-11eb-99b1-eb9622ee133a.png)
+](https://www.youtube.com/channel/UCWIiIOVyTzeGJdkhi8BZ62w)
 [![BREADUPONWATERS.CO.ZA](https://img.shields.io/badge/-BREADUPONWATERS.CO.ZA-000000?style=for-the-badge&logo=react&logoColor=red)](https://breaduponwaters.co.za/)
 
 ### **Hey there, I am Moeketsi Mokoena** - _aka_ [**meccado**](https://breaduponwaters.co.za/) 👋
@@ -11,7 +12,6 @@
 - 📫 How to reach me: Twiiter => @moeketsimokoena
 - 😄 Pronouns: He/She
 - ⚡ Fun fact: Learning Biblical Hebrew, as well as trying to learn to play atleast one musical instrument.
-
 
 ### **Connet with me:**
 
@@ -39,4 +39,4 @@
 
 [![My Website](https://img.shields.io/badge/-🧬  My Website-000000?style=flat)](https://breaduponwaters.co.za)
 
-[![Moeketsi's Github Stats](https://github-readme-stats.vercel.app/api?username=mecado&&show_icon=true&title_color=CBAB58&icon_color=bb2acf&text_color=CBAB58&bg_color=3A3A3A)](https://github.com/meccado)[![Moeketsi's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=mecado&&show_icon=true&title_color=CBAB58&icon_color=bb2acf&text_color=CBAB58&bg_color=3A3A3A)](https://github.com/meccado)
+[![Moeketsi's Github Stats](https://github-readme-stats.vercel.app/api?username=meccado&show_icon=true&title_color=CBAB58&icon_color=bb2acf&text_color=CBAB58&bg_color=3A3A3A)](https://github.com/meccado)[![Moeketsi's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=meccado&&show_icon=true&title_color=CBAB58&icon_color=bb2acf&text_color=CBAB58&bg_color=3A3A3A&layout=compact)](https://github.com/meccado)
