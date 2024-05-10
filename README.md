@@ -1,17 +1,17 @@
-[![github_cover](https://user-images.githubusercontent.com/8968908/103142295-87968b00-4709-11eb-99b1-eb9622ee133a.png)
-](https://www.youtube.com/channel/UCWIiIOVyTzeGJdkhi8BZ62w)
+[![GITHUB COVER](https://github.com/meccado/quickstart-dapp-with-nuxt3-solidity/assets/8968908/c3b00f61-f219-4fc2-8d3b-0acf425461cb)
+](https://www.tiktok.com/@bytescodealive)
 [![BREADUPONWATERS.CO.ZA](https://img.shields.io/badge/-BREADUPONWATERS.CO.ZA-000000?style=for-the-badge&logo=react&logoColor=red)](https://breaduponwaters.co.za/)
 
 ### **Hey there, I am Moeketsi Mokoena** - _aka_ [**meccado**](https://breaduponwaters.co.za/) 👋
 
 - 🔭 I’m currently working on devOps tools, as well as WordPress themes & Plugins
 - 🌱 I’m currently learning Cloud computing & blockchain.
-- 👯 I’m looking to collaborate with other content creaters.
+- 👯 I’m looking to collaborate with other content creators.
 - 🤔 I’m looking for help with OpenShift.
 - 💬 Ask me about Java & JavaEE, mostly EJB and Spring Framework.
-- 📫 How to reach me: Twiiter => @moeketsimokoena
+- 📫 How to reach me: Twitter => @moeketsimokoena
 - 😄 Pronouns: He/She
-- ⚡ Fun fact: Learning Biblical Hebrew, as well as trying to learn to play atleast one musical instrument.
+- ⚡ Fun fact: Learning Biblical Hebrew, as well as trying to learn to play at least one musical instrument.
 
 ### **Connet with me:**
 
